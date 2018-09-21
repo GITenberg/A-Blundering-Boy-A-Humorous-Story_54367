@@ -1,11 +1,16 @@
 _repo: A-Blundering-Boy-A-Humorous-Story_54367
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 54367-h/images/cover.jpg
 creator:
   author:
     agent_name: Munro, Bruce Weston
     gutenberg_agent_id: '47843'
     url: http://www.gutenberg.org/2009/agents/47843
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54367#A-Blundering-Boy-A-Humorous-Story
 gutenberg_issued: '2017-03-15'
 gutenberg_type: Text
 identifiers:
